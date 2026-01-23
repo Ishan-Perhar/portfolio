@@ -1,0 +1,32 @@
+/*
+  Header styling
+*/
+
+.site-header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+
+.nav {
+    display: flex;
+    gap: 18px;
+}
+
+.nav-link {
+    color: var(--muted);
+}
+
+.nav-link:hover {
+    color: var(--text);
+}

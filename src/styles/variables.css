@@ -1,0 +1,25 @@
+/*
+css variables
+*/
+
+:root {
+    /*background colors*/
+    --bg: #0f1115;
+    /* main pg bg */
+    --surface: #151a23;
+
+    /*text color*/
+    --text: #e8eaf0;
+    /*main text*/
+    --muted: #a8b0bf;
+    /*muted text*/
+
+    /* UI colors */
+    --border: #2a3140;
+    --accent: #4f46e5;
+
+    /* Layout */
+    --max-width: 1100px;
+    --radius: 12px;
+
+}
